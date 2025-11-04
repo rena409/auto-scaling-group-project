@@ -1,5 +1,6 @@
 # auto-scaling-group-project
 This project demonstrate how to deploy high avaliable and scaling the web application on using EC2AUTO SCALING GROUP,classic load balancer or application load balancer, SNS notification and VPC configuration.
+# Project Overview
 # Goal- To automatically scale EC2 instances based on demand and ensure high availability with load balaner
 # Key AWS services used:
 # VPC (Virtual Private Cloud)
